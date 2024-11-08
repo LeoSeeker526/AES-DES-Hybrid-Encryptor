@@ -72,10 +72,6 @@ The GUI, implemented in `main_app.py`, has the following components:
 
 ---
 
-## **Sample Screenshot**
-(Add a screenshot of your GUI here, if possible)
-
----
 
 ## **Customization**
 
