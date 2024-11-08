@@ -52,27 +52,6 @@ The encryption logic is implemented in `encryption_logic.py` and uses XOR-based 
 
 ---
 
-## **GUI Interface**
-
-The GUI, implemented in `main_app.py`, has the following components:
-1. **Plaintext Input**: A text entry field for the user to input plaintext.
-2. **Encrypt Button**: Encrypts the input and displays the result in a read-only text box.
-3. **Encrypted Output**: Displays the encrypted data in hexadecimal format.
-4. **Decrypt Button**: Decrypts the encrypted data back to plaintext.
-5. **Decrypted Output**: Displays the decrypted plaintext.
-
----
-
-## **Design Theme**
-
-- **Background**: Black.
-- **Text Color**: Red.
-- **Button Styling**: Red background with black text.
-- **Window Size**: 600x500 pixels for better readability and usability.
-
----
-
-
 ## **Customization**
 
 You can customize the encryption logic, keys, or GUI theme:
